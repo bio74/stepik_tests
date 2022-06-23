@@ -1,4 +1,5 @@
 # stepik_tests
-Задачи по Selenium
 
-https://stepik.org/lesson/187065/step/7?unit=161976
+Задача из модуля 2.4.2
+
+
